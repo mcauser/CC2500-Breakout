@@ -1,0 +1,85 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:cc2500
+LIBS:cc2500-breakout-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Conn_01x08 J1
+U 1 1 5AE84BD7
+P 3900 3350
+F 0 "J1" H 3900 3750 50  0000 C CNN
+F 1 "Conn_01x08" H 3900 2850 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm" H 3900 3350 50  0001 C CNN
+F 3 "" H 3900 3350 50  0001 C CNN
+	1    3900 3350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CC2500 U1
+U 1 1 5AE84E1E
+P 5350 3400
+F 0 "U1" H 5350 3300 60  0000 C CNN
+F 1 "CC2500" H 5400 3500 60  0000 C CNN
+F 2 "cc2500-breakout:cc2500" H 5300 3900 60  0001 C CNN
+F 3 "" H 5300 3900 60  0001 C CNN
+	1    5350 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4100 3050 4650 3050
+Wire Wire Line
+	4650 3150 4100 3150
+Wire Wire Line
+	4100 3250 4650 3250
+Wire Wire Line
+	4650 3350 4100 3350
+Wire Wire Line
+	4100 3450 4650 3450
+Wire Wire Line
+	4650 3550 4100 3550
+Wire Wire Line
+	4100 3650 4650 3650
+Wire Wire Line
+	4650 3750 4100 3750
+$EndSCHEMATC

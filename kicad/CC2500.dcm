@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC2500
+D CC2500 Low-Power 2.4 GHz RF Transceiver Module
+K CC2500 2.4 GHz ISM RF Radio Transceiver
+F http://www.ti.com/lit/ds/symlink/cc2500.pdf
+$ENDCMP
+#
+#End Doc Library
