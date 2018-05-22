@@ -10,6 +10,14 @@ Only component you need is 1x8 straight or right-angle 2.54mm headers.
 
 Designed using [KiCad](http://kicad-pcb.org/).
 
+# OSH Park Purple PCBs
+
+![bare.jpg](images/bare.jpg)
+
+![soldered.jpg](images/soldered.jpg)
+
+They look black here, but that's just the dim lighting in my office. They are dark purple PCBs.
+
 # Models
 
 ![3d-back.jpg](images/3d-back.jpg)
