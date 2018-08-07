@@ -38,3 +38,7 @@ They look black here, but that's just the dim lighting in my office. They are da
 
 * [CC2500 2.4GHz RF transceiver module](https://www.aliexpress.com/item/Wireless-Transceiver-Module-CC2500-2-4G-2400-2483-5-MHz-ISM-SRD-Low-power-Consistency-Stability/32702148262.html)
 * [Order the board on OSH Park](https://oshpark.com/shared_projects/chUQvFmW)
+
+# License
+
+Licensed under the [MIT License](http://opensource.org/licenses/MIT).
